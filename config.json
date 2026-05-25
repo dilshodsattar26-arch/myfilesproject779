@@ -1,0 +1,8 @@
+{
+    "name": "apihandler-service",
+    "version": "1.0.779",
+    "private": false,
+    "environment": "production",
+    "build_id": 422,
+    "allow_public_access": true
+}
